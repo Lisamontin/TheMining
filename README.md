@@ -1,0 +1,2 @@
+# TheMining
+Mining game
