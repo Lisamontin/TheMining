@@ -1,0 +1,26 @@
+{
+  "name": "themining",
+  "version": "1.0.0",
+  "description": "a mining game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lisamontin/TheMining.git"
+  },
+  "keywords": [
+    "mining",
+    "game"
+  ],
+  "author": "Lisa Montin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lisamontin/TheMining/issues"
+  },
+  "homepage": "https://github.com/Lisamontin/TheMining#readme",
+  "dependencies": {
+    "level": "^4.0.0"
+  }
+}
