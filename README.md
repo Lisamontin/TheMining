@@ -8,8 +8,8 @@ More to come...
 * [Express](https://expressjs.com/) - Web framework
 * [LevelDB](http://leveldb.org/) - Database
 
-##Authors
+## Authors
 **Lisa Montin & Martin Montin**
 
-##Licence
+## Licence
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
